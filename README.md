@@ -14,7 +14,7 @@ display a list of project IDs : gcloud config list project
 
 
 2. Google Cloud SDK
-3. 
+
 -. Installation and Configuration if SDK
 
 
