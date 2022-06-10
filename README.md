@@ -1,20 +1,31 @@
-# CC-Backend
+# GCP Introduction
 
-Cloud Computing
-1. GCP Introduction
+1. Setup Account And Creating a Project
+2. Cloud Shell Introduction
 
--. Setup Account and creating a project
+# Google Cloud SDK
 
--. Cloud Shell Introduction
-
-
+1. Installation and configuration if SDK
 
 
 
 
-2. Google Cloud SDK
 
--. Installation and Configuration if SDK
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
 
 
 
