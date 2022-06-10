@@ -7,6 +7,7 @@ Cloud Computing
 
 -. Cloud Shell Introduction
 
+
 Step First in Cloud Shell
 lists credentialed accounts : gcloud auth list
 
@@ -19,7 +20,8 @@ display a list of project IDs : gcloud config list project
 
 
 #Identity Provider
-I sue the identity provider with Google Cloud Platform
+
+I use the identity provider with Google Cloud Platform
 For the sign in email and password
 
 Key Api Authen :
