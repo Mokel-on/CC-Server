@@ -4,6 +4,7 @@ Cloud Computing
 1. GCP Introduction
 
 -. Setup Account and creating a project
+
 -. Cloud Shell Introduction
 
 Step First in Cloud Shell
