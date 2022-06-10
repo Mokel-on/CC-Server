@@ -9,6 +9,12 @@
 
 
 
+# Google Cloud Identity Platform
+
+1. Add provider email and password
+2. Add user
+
+
 
 
 
