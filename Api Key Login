@@ -1,0 +1,8 @@
+<script src="https://www.gstatic.com/firebasejs/8.0/firebase.js"></script>
+<script>
+  var config = {
+    apiKey: "AIzaSyB0rLTFUfOTy2lDrXpUFqpSM2Mxa6B8jZA",
+    authDomain: "mokel-on.firebaseapp.com",
+  };
+  firebase.initializeApp(config);
+</script>
